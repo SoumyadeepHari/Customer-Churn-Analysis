@@ -52,7 +52,7 @@ The charts below highlight some of the key insights uncovered during the explora
 ### 1. Churn Rate by Geography
 
 <p align="center">
-  <img src="images/churn_geography.png" width="700">
+  <img src="Images/churn_geography.png" width="700">
 </p>
 
 Germany has the highest customer churn rate (**32.44%**), nearly double that of France and Spain. This suggests that region-specific retention strategies may be required.
@@ -62,7 +62,7 @@ Germany has the highest customer churn rate (**32.44%**), nearly double that of 
 ### 2. Churn Rate by Age Group
 
 <p align="center">
-  <img src="images/churn_age.png" width="700">
+  <img src="Images/churn_age.png" width="700">
 </p>
 
 Customer churn increases with age and peaks in the **50–59** age group (**56.04%**), making this the highest-risk demographic.
@@ -72,7 +72,7 @@ Customer churn increases with age and peaks in the **50–59** age group (**56.0
 ### 3. Churn Rate by Activity Status
 
 <p align="center">
-  <img src="images/churn_activity.png" width="700">
+  <img src="Images/churn_activity.png" width="700">
 </p>
 
 Inactive customers churn at almost **twice the rate** of active customers, highlighting customer engagement as one of the strongest indicators of retention.
@@ -82,7 +82,7 @@ Inactive customers churn at almost **twice the rate** of active customers, highl
 ### 4. Churn Rate by Balance (Inactive Customers)
 
 <p align="center">
-  <img src="images/churn_balance.png" width="700">
+  <img src="Images/churn_balance.png" width="700">
 </p>
 
 Among inactive customers, those with positive account balances experience significantly higher churn than customers with zero balances, indicating a valuable customer segment that could benefit from targeted retention efforts.
